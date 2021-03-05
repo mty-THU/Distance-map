@@ -9,4 +9,4 @@ Principle: If a residue has CB atom, use CB atom; otherwise, use Ca atom. If the
 
 ## How to use
 Put the script(Distance map.py) in the same directory as the PDB files, and run the script with
-‘python Distance map.py’
+'python Distance map.py'
